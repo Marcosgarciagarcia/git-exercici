@@ -1,5 +1,7 @@
 …or create a new repository on the command line
 
+Cambio que debería aparecer en la rama branch1
+
 echo "# PruebaSeleccion" >> README.md
 git init
 git add README.md
